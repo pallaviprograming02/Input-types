@@ -1,0 +1,28 @@
+type="checkbox"	
+type="radio"	
+type="file"	No file chosen
+type="hidden"	
+type="text"	
+type="password"	
+type="image"	Submit
+type="reset"	
+type="button"	Button
+type="submit"	
+New Input Types in HTML5
+type="color"	
+type="date"	
+dd-mm-yyyy
+type="time"	
+--:--
+type="month"	
+---------, ----
+type="datetime-local"	
+dd-mm-yyyy --:--
+type="week"	
+Week --, ----
+type="email"	
+type="tel"	
+type="url"	
+type="number"	
+type="search"	
+type="range"
